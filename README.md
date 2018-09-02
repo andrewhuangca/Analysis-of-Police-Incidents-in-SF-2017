@@ -30,5 +30,6 @@ Police Department Incidents - Previous Year (2017)
 Incidents derived from SFPD Crime Incident Reporting system
 https://data.sfgov.org/Public-Safety/Police-Department-Incidents-Previous-Year-2017-/9v2m-8wqu
 
-## Python Jupyter Notebook in Nbviewer
+## Python Jupyter Notebook in nbviewer
+https://nbviewer.jupyter.org/github/andrewhuangca/Analysis-of-Police-Incidents-in-SF-2017/blob/master/Analysis%20of%20SF%20Police%20Incidents%20in%202017.ipynb
 
