@@ -5,14 +5,21 @@ Living in the Bay Area, we love San Francisco, it is a beautiful city. But somet
 
 ## Key Visualizations
 ### 1. How did the daily police incidents change in SF during 2017?
-![](Visualization%20Images/Count%20of%20Daily%20Police%20Incidents.png)
+![](Visualization%20Images/Count%20of%20Daily%20Police%20Incidents%20upload%20final.png)
+
+As we can see from the above "heart beat" of daily police incidents in San Francisco during 2017, the count of daily police incidents fluctuated drastically across the year of 2017. The count of daily police incidents was the lowest on Christmas and Thanksgiving holidays.
 
 ### 2. How many police incidents happened in each hour of day and day of week for 2017?
 ![](Visualization%20Images/Heatmap%20of%20Police%20Incidents%20by%20Day%20and%20Hour.png)
 
+The above heatmap shows that the count of police incidents were highest during 5pm-8pm and 12pm-1pm for all days of week. The count of police incidents on Friday and Saturday nights were also quite high.
+
 ### 3. What are the top 10 most common police incident categories in SF during 2017?
 ![](Visualization%20Images/Top%2010%20Most%20Common%20Police%20Incident%20Categories%20upload.png)
+
+From the top 10 most common police incident categories, we can tell that most of the police incidents in SF were non-violent crimes. The count of "larceny/theft" category was much higher than any other categories.
 
 ### 4. Where did the "vehicle theft" incidents happen in San Francisco? 
 (I personally am concerned about the vehicle theft incidents as I sometimes drive to SF)
 ![](Visualization%20Images/SF%20vehicle%20theft%20map.png)
+
