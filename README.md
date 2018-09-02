@@ -22,4 +22,13 @@ From the top 10 most common police incident categories, we can tell that most of
 ### 4. Where did the "vehicle theft" incidents happen in San Francisco? 
 (I personally am concerned about the vehicle theft incidents as I sometimes drive to SF)
 ![](Visualization%20Images/SF%20vehicle%20theft%20map.png)
+The "vehicle theft" incident map shows that the "vehicle theft" incidents were all over the city, except the major parks in the city. The "vehicle theft" incidents were more concentrated in the business / commercial areas where there are lots of population.
+
+## Dataset
+Police Department Incidents - Previous Year (2017)
+
+Incidents derived from SFPD Crime Incident Reporting system
+https://data.sfgov.org/Public-Safety/Police-Department-Incidents-Previous-Year-2017-/9v2m-8wqu
+
+## Python Jupyter Notebook in Nbviewer
 
