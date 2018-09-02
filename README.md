@@ -10,7 +10,7 @@ Living in the Bay Area, we love San Francisco, it is a beautiful city. But somet
 As we can see from the above "heart beat" of daily police incidents in San Francisco during 2017, the count of daily police incidents fluctuated drastically across the year of 2017. The count of daily police incidents was the lowest on Christmas and Thanksgiving holidays.
 
 ### 2. How many police incidents happened in each hour of day and day of week for 2017?
-![](Visualization%20Images/Heatmap%20of%20Police%20Incidents%20by%20Day%20and%20Hour.png)
+![](Visualization%20Images/Heatmap%20of%20Police%20Incidents%20by%20Day%20and%20Hour%20upload.png)
 
 The above heatmap shows that the count of police incidents were highest during 5pm-8pm and 12pm-1pm for all days of week. The count of police incidents on Friday and Saturday nights were also quite high.
 
