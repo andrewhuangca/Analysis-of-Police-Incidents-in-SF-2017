@@ -29,6 +29,7 @@ The "vehicle theft" incident map shows that the "vehicle theft" incidents were a
 Police Department Incidents - Previous Year (2017)
 
 Incidents derived from SFPD Crime Incident Reporting system
+
 https://data.sfgov.org/Public-Safety/Police-Department-Incidents-Previous-Year-2017-/9v2m-8wqu
 
 ## Python Jupyter Notebook in nbviewer
